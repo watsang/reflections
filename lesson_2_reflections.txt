@@ -2,3 +2,8 @@
 
 	a .git folder is created
 	.git folder keeps track of all the commits in the repository
+
+# How is that staging area different from the working directory and the repository? What value do you think it offers? 
+
+	the staging area allows the user to gradually add new documents before the commmit
+	allows to target out certain changes in the before committing anything
