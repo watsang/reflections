@@ -1,0 +1,31 @@
+# How did viewing a diff between two versions of a file help you see the bug that was introduced? 
+
+	I started to learn some git here. 
+
+# What are the pros and cons of manually choosing to create a commit like you do in GIT?
+
+	commit -> basic building block of git
+			-> commit when you have implemented one feature, one function
+			-> when you solve a bug, commit it seperately from other bugs
+
+	manually choosing to create a commit is always a judgment call, it's never clear-cut when is the best time to comit
+
+# Why do you think some vcss, like git, allow saving multiple files in one commit, while google docs, treat each file separately?
+
+	Some files are interrelated with each other, one commit can refer to a fix in multiple files
+
+# How can you use the commands git log and git diff to view the history of the files? 
+
+	- git log: enables you to view the entire history of all the commits you made
+	- git diff: allows you to view differences between two commits!
+			=> it counts the number of lines added, and the number of lines removed
+
+# How might using version control make you more confiend to make changes that could break something?
+
+	- vsc enables me to easily compare different versions of a file
+	- new additions in files can be easily compared with previous versions
+
+# Now that you have your workspace set up, what do you want to try using Git for? 
+
+	- building packages
+	- starting any project, will involve git...

@@ -1,0 +1,4 @@
+# What happens when you initialize a repository? why do you need to do it?
+
+	a .git folder is created
+	.git folder keeps track of all the commits in the repository
