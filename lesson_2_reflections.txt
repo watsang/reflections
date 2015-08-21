@@ -7,3 +7,16 @@
 
 	the staging area allows the user to gradually add new documents before the commmit
 	allows to target out certain changes in the before committing anything
+
+# How can you use the staging area to make sure you have one commit per logical change? 
+
+	Only add one change per commit
+	By using the staging area, you can pool together certain changes that fix only one issue. 
+
+# What are some situations when branches would be helpful in keeping you rhistory organized? How would branches help?
+
+	When adding new feats, you can easily create new branches for development before allowing them to the master, to ensure it does not get polluted!
+
+# How do the diagrams help you visualize the branch structure?
+
+	Diagrams visualize where branches are split off, and how some nodes are not reachable anymore
