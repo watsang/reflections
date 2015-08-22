@@ -1,0 +1,8 @@
+# When would you want to use a remote repository rather than keeping to work local?
+
+# Why might you want to always pull changes manually rather than having 	Git automatically stay up-to-date with your remote repository?
+
+	- sometimes you don't agree with the content on the online repository
+
+	- sometimes faulty content might be automatically included in your local repository which you don't want
+  
