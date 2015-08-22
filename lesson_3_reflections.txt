@@ -6,3 +6,8 @@
 
 	- sometimes faulty content might be automatically included in your local repository which you don't want
   
+# Describe the differences between forks, clones and branches. When would you use one instead of the other? 
+
+	- forks, when I want to make a copy of an existing repository and make adaptations to it 
+	- clones, when I want to make a copy to my local computer and make changes to it
+	- branches, when I want to make changes that are not present in the master branch and that can possibly break
