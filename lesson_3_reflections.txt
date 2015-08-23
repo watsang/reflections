@@ -11,3 +11,7 @@
 	- forks, when I want to make a copy of an existing repository and make adaptations to it 
 	- clones, when I want to make a copy to my local computer and make changes to it
 	- branches, when I want to make changes that are not present in the master branch and that can possibly break
+
+# What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	- when you pull, i.e. fetch and merge, you can perform a fast forward merge, which means that you don't actually merge anything because the information is already contained within the merge!
