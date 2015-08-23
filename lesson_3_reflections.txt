@@ -15,3 +15,9 @@
 # What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	- when you pull, i.e. fetch and merge, you can perform a fast forward merge, which means that you don't actually merge anything because the information is already contained within the merge!
+
+# How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+
+	- collaborating without git or github, will be done via mail, which would be quite tedious?
+	- with github, you can easily make pull requests
+	- you can make branches, where you can implement new features, which can be revisited by other collaborators and merged in the end
